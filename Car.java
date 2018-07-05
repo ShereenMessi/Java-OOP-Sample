@@ -6,6 +6,8 @@ import android.util.Log;
  * Created by Shereen on 7/5/2018.
  */
 
+//good name
+
 public class Car {
     SportCar car;
 
